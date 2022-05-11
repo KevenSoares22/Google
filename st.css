@@ -1,0 +1,248 @@
+@charset "UTF-8";
+body{
+	font-family: arial, sans-serif;
+	
+	
+}
+
+h6{
+	position: absolute;
+	left: 60%;
+	font-family: monospace;
+    font-size: 11px;
+}
+
+h5{
+	position: absolute;
+	left: 2%;
+    font-size: 14px;
+}
+h4{
+    color: #d93025;	
+	font-style: inherit;
+	font-size: 100%;
+	
+	position: absolute;
+	top: 60px;
+	left: 2%;
+	
+	font-size: 20px;
+}
+h1{
+	position: absolute;
+	top: 160px;	
+	left: 2%;
+	
+	font-size: 16px;
+}
+
+
+
+input.a{
+	position: absolute;
+	
+	top: 2px;
+	left: -50px;
+	height: 25px; 
+	width: 560px;
+    position: absolute;
+	
+	
+    
+	border-style: solid;
+	border-radius: 2px;
+	border-width: 1px;
+    border-color: black;
+	padding: 1px 8px 1px 8px;
+	
+}
+.text0{
+	position: absolute;
+	top: 210px;
+}
+
+.text1{
+	position: absolute;
+	top: 260px;
+	
+}
+
+.text2{
+	position: absolute;
+	top: 310px;
+	
+}
+
+.text3{
+	position: absolute;
+	top: 360px;
+	
+}
+
+div.ad{
+	
+	position: absolute;
+	
+	left: 50%;
+	top: 0%;
+	transform: translateX(-50%) ;
+	
+	width: 100%;
+	height: 140px;
+	
+	
+	border-bottom: 1px solid #ebebeb;
+}
+
+a.link{
+	text-decoration: none;
+	color: inherit;
+	padding-right: 20px;
+	
+	font-weight: normal;
+	}
+	
+h2.link2	{
+	position: absolute;
+	right: 0;
+	font-size: 12px;
+}
+a:hover{
+	text-decoration:  underline;
+	
+}
+
+div.border{
+	position: absolute;
+	
+	left: 50%;
+	top: 36.8%;
+	transform: translateX(-50%) translateY(-50%);
+	
+	width: 510px;
+	height: 38px;
+	
+	
+	border-style: solid;
+	border-radius: 4px;
+	border-width: 1px;
+    border-color: rgba(225,226,230,1);
+	
+	
+}
+
+
+.borders.f{
+
+	position: absolute;
+	
+	left: 20%;
+	top: 36%;
+}
+
+.borders.s{
+	position: absolute;
+	
+	left: 20%;
+	top: 44%;
+}
+
+.borders.t{
+position: absolute;
+	
+	left: 20%;
+	top: 52%;
+	
+}
+
+.borders.frt{
+	
+	position: absolute;
+	
+	left: 20%;
+	top: 60%;
+}
+
+input#box1{
+	position: absolute;
+	
+	left: 50%;
+	top: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	
+	width: 440px;
+	height: 22px;
+	
+	outline: none;
+	border-style: none;
+	border-radius: 4px;
+	border-width: 0px;
+    border-color: white;
+}
+input.box2{
+	
+	border-radius: 4px;
+	width: auto;
+	height: 40px;
+    padding: 0 16px 0 16px;
+	border-style: solid;
+	cursor: pointer;
+	border-width: 1px;
+	border-color: rgba(248,248,250,1);
+	background-color: rgba(248,248,250,1);
+}
+
+.boxp1{
+	position: absolute;
+	
+	left: 44%;
+	top: 44%;
+	transform: translateX(-50%);
+	
+}
+
+.boxp2{
+	
+	position: absolute;
+	
+	left: 54.6%;
+	top: 44%;
+	transform: translateX(-50%);
+}
+
+.box0{
+	position: absolute;
+	left: 50%;
+	top: 44%;
+	transform: translateX(-50%);
+	
+
+	
+}
+
+.boxadvanced{
+	position: absolute;
+	left: 50%;
+	top: 80%;
+	transform: translateX(-50%);
+	
+}
+
+
+.border:hover{
+	
+	border-color: white;
+    box-shadow: rgba(160,160,160, 1) 0 0 4px;
+	
+}
+.borders:hover{
+	
+	
+}
+
+.box2:hover{
+
+	border-color: rgba(218,220,222,1);
+    box-shadow: rgba(33, 35, 38, 0.1) 0px 1px 2px;
+	
+}
